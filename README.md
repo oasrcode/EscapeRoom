@@ -40,11 +40,8 @@ git clone https://github.com/oasrcode/UT4-Game.git
 
 ### How to play ♟️
 ***
-* Use 'wasd' to move the ball
-* Use 'space' to jump over the stairs,
-* Recolet all the coins 🌕 before the time runs out out.
-* Hint 👀 there is 2 playable scenes with 4 coins each one. 👍
+* Use keyboard controls to move the hands in the game.
+* Clic 'G' to grab notebooks, there are 3 for each level. If you collect it the door will open.
+* Clic mouse left clic to interact with UI buttons.
+* Each time that you restart the level, the notebooks will be places in differents positions. 
 
-### Implementations
-***
-* Added sound system as feedback when catches a coin, or when the scene is finished. :v:
