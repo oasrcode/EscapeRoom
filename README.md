@@ -29,7 +29,7 @@ This is a video game made with unity and VR, in which we have to recollect all t
 ***
 ```bash
 cd existing_folder
-git clone https://github.com/oasrcode/UT4-Game.git
+git clone https://github.com/oasrcode/EscapeRoom.git
 ```
 ### Deployment 🏗️
 ***
@@ -40,8 +40,8 @@ git clone https://github.com/oasrcode/UT4-Game.git
 
 ### How to play ♟️
 ***
-* Use keyboard controls to move the hands in the game.
-* Clic 'G' to grab notebooks, there are 3 for each level. If you collect it the door will open.
-* Clic mouse left clic to interact with UI buttons.
+* Use keyboard to control the movement and the hands in the game.
+* Clic 'G' key to grab notebooks, there are 3 for each level. If you collect them the door will open.
+* Use mouse left clic to interact with UI button after aim to them.
 * Each time that you restart the level, the notebooks will be places in differents positions. 
 
