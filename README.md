@@ -38,7 +38,7 @@ git clone https://github.com/oasrcode/EscapeRoom.git
 * :warning: Go to Game View and change the resolution to FullHD (1920x1080). :warning:
 * And now the project its ready to be tested.
 
-### How to play ♟️
+### How to Play ♟️
 ***
 * Use keyboard to control the movement and the hands in the game.
 * Clic 'G' key to grab notebooks, there are 3 for each level. If you collect them the door will open.
