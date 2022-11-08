@@ -8,7 +8,7 @@
  - [How to clone](#how-to-clone)
  - [Deployment](#deployment)
  - [How to play](#how-to-play)
- - [Implementations](#implementations)
+
 
 
 ### Intro 📖
