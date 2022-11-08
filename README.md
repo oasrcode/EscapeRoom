@@ -31,7 +31,7 @@ This is a video game made with unity and VR, in which we have to recollect all t
 cd existing_folder
 git clone https://github.com/oasrcode/EscapeRoom.git
 ```
-### deployment 🏗️
+### Deployment 🏗️
 ***
 * Open the project with unity hub.
 * In the assets, folder go to Scenes and double click on the scene named Menu. 1º Menu, 2º Room.
